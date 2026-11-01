@@ -1,0 +1,216 @@
+{"subject": "Error when saving", "body": "Saving a draft shows 'something went wrong' and nothing is saved. after the last update.", "category": "bug"}
+{"subject": "Feature idea", "body": "Please add support for Spain e-invoicing standard, we would pay more for it.", "category": "feature_request"}
+{"subject": "Need a refund", "body": "We cancelled last week but were still billed $1,200. Can we get a refund?", "category": "billing"}
+{"subject": "Password reset email missing", "body": "I requested a password reset after the last update but no email arrived.", "category": "account_access"}
+{"subject": "Invoice for our subscription", "body": "Our accountant needs a VAT invoice for the month plan payment.", "category": "billing"}
+{"subject": "Duplicate numbers", "body": "Two invoices got the same number after the since Monday update, which breaks our records.", "category": "bug"}
+{"subject": "Press inquiry", "body": "I am writing an article about invoicing tools and would like a quote.", "category": "other"}
+{"subject": "Security questionnaire", "body": "Our procurement team needs you to fill in a vendor security questionnaire.", "category": "other"}
+{"subject": "Totals calculated wrong", "body": "Line items add up to 120 EUR but the invoice total shows a different number.", "category": "bug"}
+{"subject": "Charged twice this month", "body": "I see two charges of $49 on my card for the same quarter.", "category": "billing"}
+{"subject": "Add a team member", "body": "How do I give my bookkeeper access to the clients page only?", "category": "how_to"}
+{"subject": "Job application", "body": "Are you hiring support engineers in Italy?", "category": "other"}
+{"subject": "Need a refund", "body": "We cancelled last week but were still billed $99. Can we get a refund?", "category": "billing"}
+{"subject": "Lost my phone 2FA", "body": "I lost the phone with my authenticator app and cannot sign in.", "category": "account_access"}
+{"subject": "Feature idea", "body": "Please add support for Germany e-invoicing standard, we would pay more for it.", "category": "feature_request"}
+{"subject": "Custom fields", "body": "We would love custom fields on clients, like a purchase order number.", "category": "feature_request"}
+{"subject": "Login loop", "body": "After entering my password in Chrome it sends me back to the login page.", "category": "account_access"}
+{"subject": "Change invoice template", "body": "Where do I change the logo and colours on my invoice template?", "category": "how_to"}
+{"subject": "How do I add tax", "body": "How can I add VAT to invoices for clients in Spain?", "category": "how_to"}
+{"subject": "Thanks", "body": "Just wanted to say the new reports page is great, thank you!", "category": "other"}
+{"subject": "Partial payment question", "body": "A client paid half. How do I record a partial payment?", "category": "how_to"}
+{"subject": "Can't access account", "body": "Our owner left the company and nobody can access the account now.", "category": "account_access"}
+{"subject": "Locked out", "body": "I cannot log in, it says my account is locked after too many attempts.", "category": "account_access"}
+{"subject": "Password reset email missing", "body": "I requested a password reset two days ago but no email arrived.", "category": "account_access"}
+{"subject": "Press inquiry", "body": "I am writing an article about invoicing tools and would like a quote.", "category": "other"}
+{"subject": "PDF export broken", "body": "When I export an invoice to PDF the tax line is missing. Started two days ago.", "category": "bug"}
+{"subject": "Charged twice this month", "body": "I see two charges of 35 GBP on my card for the same week.", "category": "billing"}
+{"subject": "Feature idea", "body": "Please add support for Italy e-invoicing standard, we would pay more for it.", "category": "feature_request"}
+{"subject": "How do I add tax", "body": "How can I add sales tax to invoices for clients in Poland?", "category": "how_to"}
+{"subject": "Invoice for our subscription", "body": "Our accountant needs a VAT invoice for the year plan payment.", "category": "billing"}
+{"subject": "Totals calculated wrong", "body": "Line items add up to $99 but the invoice total shows a different number.", "category": "bug"}
+{"subject": "Downgrade pricing question", "body": "If we downgrade from Business mid-cycle, do we get credit for the rest?", "category": "billing"}
+{"subject": "Login loop", "body": "After entering my password in Safari it sends me back to the login page.", "category": "account_access"}
+{"subject": "Custom fields", "body": "We would love custom fields on clients, like a purchase order number.", "category": "feature_request"}
+{"subject": "Custom fields", "body": "We would love custom fields on clients, like a purchase order number.", "category": "feature_request"}
+{"subject": "Integration request", "body": "Any plans to integrate with QuickBooks? It would save us hours each year.", "category": "feature_request"}
+{"subject": "Invoice for our subscription", "body": "Our accountant needs a VAT invoice for the quarter plan payment.", "category": "billing"}
+{"subject": "Feature idea", "body": "Please add support for Spain e-invoicing standard, we would pay more for it.", "category": "feature_request"}
+{"subject": "Export for accountant", "body": "What is the best way to export all week invoices for my accountant?", "category": "how_to"}
+{"subject": "Page keeps loading", "body": "The expenses page spins forever in Firefox. Other pages work.", "category": "bug"}
+{"subject": "Change account email", "body": "I need to change the email I use to sign in because I lost access to the old one.", "category": "account_access"}
+{"subject": "Change invoice template", "body": "Where do I change the logo and colours on my invoice template?", "category": "how_to"}
+{"subject": "Wrong amount on my bill", "body": "My plan is Pro but the last bill was $99, which looks too high.", "category": "billing"}
+{"subject": "Can't access account", "body": "Our owner left the company and nobody can access the account now.", "category": "account_access"}
+{"subject": "Export for accountant", "body": "What is the best way to export all week invoices for my accountant?", "category": "how_to"}
+{"subject": "Update payment card", "body": "Our company card expired, how do we change the card you charge?", "category": "billing"}
+{"subject": "Export for accountant", "body": "What is the best way to export all week invoices for my accountant?", "category": "how_to"}
+{"subject": "Job application", "body": "Are you hiring support engineers in Italy?", "category": "other"}
+{"subject": "Bulk edit wish", "body": "It would help a lot to edit due dates for many invoices at once.", "category": "feature_request"}
+{"subject": "Add a team member", "body": "How do I give my bookkeeper access to the reports page only?", "category": "how_to"}
+{"subject": "Invoice for our subscription", "body": "Our accountant needs a VAT invoice for the year plan payment.", "category": "billing"}
+{"subject": "Login loop", "body": "After entering my password in Chrome it sends me back to the login page.", "category": "account_access"}
+{"subject": "Change invoice template", "body": "Where do I change the logo and colours on my invoice template?", "category": "how_to"}
+{"subject": "Security questionnaire", "body": "Our procurement team needs you to fill in a vendor security questionnaire.", "category": "other"}
+{"subject": "PDF export broken", "body": "When I export an invoice to PDF the logo is missing. Started two days ago.", "category": "bug"}
+{"subject": "Bulk edit wish", "body": "It would help a lot to edit due dates for many invoices at once.", "category": "feature_request"}
+{"subject": "Partial payment question", "body": "A client paid half. How do I record a partial payment?", "category": "how_to"}
+{"subject": "Need a refund", "body": "We cancelled last week but were still billed $99. Can we get a refund?", "category": "billing"}
+{"subject": "Suggestion: dark mode", "body": "Would be nice to have a dark mode for working late.", "category": "feature_request"}
+{"subject": "Job application", "body": "Are you hiring support engineers in Poland?", "category": "other"}
+{"subject": "Recurring invoices", "body": "Is there a way to send the same invoice every week automatically?", "category": "how_to"}
+{"subject": "Charged twice this month", "body": "I see two charges of 35 GBP on my card for the same year.", "category": "billing"}
+{"subject": "Integration request", "body": "Any plans to integrate with Xero? It would save us hours each month.", "category": "feature_request"}
+{"subject": "Page keeps loading", "body": "The expenses page spins forever in Firefox. Other pages work.", "category": "bug"}
+{"subject": "Locked out", "body": "I cannot log in, it says my account is locked after too many attempts.", "category": "account_access"}
+{"subject": "API request", "body": "Could you add a webhook when a client opens an invoice for the first time?", "category": "feature_request"}
+{"subject": "Partial payment question", "body": "A client paid half. How do I record a partial payment?", "category": "how_to"}
+{"subject": "Duplicate numbers", "body": "Two invoices got the same number after the two days ago update, which breaks our records.", "category": "bug"}
+{"subject": "Update payment card", "body": "Our company card expired, how do we change the card you charge?", "category": "billing"}
+{"subject": "How do I add tax", "body": "How can I add sales tax to invoices for clients in Germany?", "category": "how_to"}
+{"subject": "Change account email", "body": "I need to change the email I use to sign in because I lost access to the old one.", "category": "account_access"}
+{"subject": "Job application", "body": "Are you hiring support engineers in Spain?", "category": "other"}
+{"subject": "Lost my phone 2FA", "body": "I lost the phone with my authenticator app and cannot sign in.", "category": "account_access"}
+{"subject": "Need a refund", "body": "We cancelled last week but were still billed $99. Can we get a refund?", "category": "billing"}
+{"subject": "Data residency question", "body": "Where is our data stored? Our legal team is asking about Canada.", "category": "other"}
+{"subject": "Emails not sent", "body": "Clients say they never receive invoice emails since yesterday. Status says sent.", "category": "bug"}
+{"subject": "Add a team member", "body": "How do I give my bookkeeper access to the expenses page only?", "category": "how_to"}
+{"subject": "Charged twice this month", "body": "I see two charges of $49 on my card for the same month.", "category": "billing"}
+{"subject": "Error when saving", "body": "Saving a draft shows 'something went wrong' and nothing is saved. two days ago.", "category": "bug"}
+{"subject": "Emails not sent", "body": "Clients say they never receive invoice emails since yesterday. Status says sent.", "category": "bug"}
+{"subject": "Thanks", "body": "Just wanted to say the new reports page is great, thank you!", "category": "other"}
+{"subject": "Recurring invoices", "body": "Is there a way to send the same invoice every week automatically?", "category": "how_to"}
+{"subject": "API request", "body": "Could you add a webhook when a client opens an invoice for the first time?", "category": "feature_request"}
+{"subject": "Wrong amount on my bill", "body": "My plan is Business but the last bill was $1,200, which looks too high.", "category": "billing"}
+{"subject": "Login loop", "body": "After entering my password in Edge it sends me back to the login page.", "category": "account_access"}
+{"subject": "Page keeps loading", "body": "The invoices page spins forever in Safari. Other pages work.", "category": "bug"}
+{"subject": "Export for accountant", "body": "What is the best way to export all week invoices for my accountant?", "category": "how_to"}
+{"subject": "Press inquiry", "body": "I am writing an article about invoicing tools and would like a quote.", "category": "other"}
+{"subject": "Security questionnaire", "body": "Our procurement team needs you to fill in a vendor security questionnaire.", "category": "other"}
+{"subject": "Change invoice template", "body": "Where do I change the logo and colours on my invoice template?", "category": "how_to"}
+{"subject": "Change account email", "body": "I need to change the email I use to sign in because I lost access to the old one.", "category": "account_access"}
+{"subject": "Downgrade pricing question", "body": "If we downgrade from Starter mid-cycle, do we get credit for the rest?", "category": "billing"}
+{"subject": "API request", "body": "Could you add a webhook when a client opens an invoice for the first time?", "category": "feature_request"}
+{"subject": "Feature idea", "body": "Please add support for Germany e-invoicing standard, we would pay more for it.", "category": "feature_request"}
+{"subject": "Locked out", "body": "I cannot log in, it says my account is locked after too many attempts.", "category": "account_access"}
+{"subject": "Locked out", "body": "I cannot log in, it says my account is locked after too many attempts.", "category": "account_access"}
+{"subject": "Add a team member", "body": "How do I give my bookkeeper access to the expenses page only?", "category": "how_to"}
+{"subject": "Need a refund", "body": "We cancelled last week but were still billed $1,200. Can we get a refund?", "category": "billing"}
+{"subject": "Emails not sent", "body": "Clients say they never receive invoice emails since since Monday. Status says sent.", "category": "bug"}
+{"subject": "Partnership", "body": "We are an agency and would like to discuss reselling your product.", "category": "other"}
+{"subject": "Page keeps loading", "body": "The reports page spins forever in Firefox. Other pages work.", "category": "bug"}
+{"subject": "API request", "body": "Could you add a webhook when a client opens an invoice for the first time?", "category": "feature_request"}
+{"subject": "PDF export broken", "body": "When I export an invoice to PDF the footer is missing. Started this morning.", "category": "bug"}
+{"subject": "Integration request", "body": "Any plans to integrate with Zapier? It would save us hours each quarter.", "category": "feature_request"}
+{"subject": "Password reset email missing", "body": "I requested a password reset this morning but no email arrived.", "category": "account_access"}
+{"subject": "Change account email", "body": "I need to change the email I use to sign in because I lost access to the old one.", "category": "account_access"}
+{"subject": "Update payment card", "body": "Our company card expired, how do we change the card you charge?", "category": "billing"}
+{"subject": "Login loop", "body": "After entering my password in Chrome it sends me back to the login page.", "category": "account_access"}
+{"subject": "Data residency question", "body": "Where is our data stored? Our legal team is asking about Spain.", "category": "other"}
+{"subject": "Can't access account", "body": "Our owner left the company and nobody can access the account now.", "category": "account_access"}
+{"subject": "Export for accountant", "body": "What is the best way to export all week invoices for my accountant?", "category": "how_to"}
+{"subject": "Recurring invoices", "body": "Is there a way to send the same invoice every year automatically?", "category": "how_to"}
+{"subject": "API request", "body": "Could you add a webhook when a client opens an invoice for the first time?", "category": "feature_request"}
+{"subject": "Bulk edit wish", "body": "It would help a lot to edit due dates for many invoices at once.", "category": "feature_request"}
+{"subject": "Change account email", "body": "I need to change the email I use to sign in because I lost access to the old one.", "category": "account_access"}
+{"subject": "Duplicate numbers", "body": "Two invoices got the same number after the since Monday update, which breaks our records.", "category": "bug"}
+{"subject": "Downgrade pricing question", "body": "If we downgrade from Pro mid-cycle, do we get credit for the rest?", "category": "billing"}
+{"subject": "Suggestion: dark mode", "body": "Would be nice to have a dark mode for working late.", "category": "feature_request"}
+{"subject": "Can't access account", "body": "Our owner left the company and nobody can access the account now.", "category": "account_access"}
+{"subject": "Lost my phone 2FA", "body": "I lost the phone with my authenticator app and cannot sign in.", "category": "account_access"}
+{"subject": "Security questionnaire", "body": "Our procurement team needs you to fill in a vendor security questionnaire.", "category": "other"}
+{"subject": "How do I add tax", "body": "How can I add GST to invoices for clients in Poland?", "category": "how_to"}
+{"subject": "Export for accountant", "body": "What is the best way to export all month invoices for my accountant?", "category": "how_to"}
+{"subject": "Totals calculated wrong", "body": "Line items add up to 120 EUR but the invoice total shows a different number.", "category": "bug"}
+{"subject": "Password reset email missing", "body": "I requested a password reset two days ago but no email arrived.", "category": "account_access"}
+{"subject": "Press inquiry", "body": "I am writing an article about invoicing tools and would like a quote.", "category": "other"}
+{"subject": "Add a team member", "body": "How do I give my bookkeeper access to the reports page only?", "category": "how_to"}
+{"subject": "Need a refund", "body": "We cancelled last week but were still billed 120 EUR. Can we get a refund?", "category": "billing"}
+{"subject": "Charged twice this month", "body": "I see two charges of $99 on my card for the same week.", "category": "billing"}
+{"subject": "Can't access account", "body": "Our owner left the company and nobody can access the account now.", "category": "account_access"}
+{"subject": "Wrong amount on my bill", "body": "My plan is Starter but the last bill was $49, which looks too high.", "category": "billing"}
+{"subject": "Duplicate numbers", "body": "Two invoices got the same number after the this morning update, which breaks our records.", "category": "bug"}
+{"subject": "Partnership", "body": "We are an agency and would like to discuss reselling your product.", "category": "other"}
+{"subject": "Downgrade pricing question", "body": "If we downgrade from Pro mid-cycle, do we get credit for the rest?", "category": "billing"}
+{"subject": "Duplicate numbers", "body": "Two invoices got the same number after the since Monday update, which breaks our records.", "category": "bug"}
+{"subject": "Wrong amount on my bill", "body": "My plan is Starter but the last bill was 35 GBP, which looks too high.", "category": "billing"}
+{"subject": "Error when saving", "body": "Saving a draft shows 'something went wrong' and nothing is saved. after the last update.", "category": "bug"}
+{"subject": "Update payment card", "body": "Our company card expired, how do we change the card you charge?", "category": "billing"}
+{"subject": "Thanks", "body": "Just wanted to say the new invoices page is great, thank you!", "category": "other"}
+{"subject": "Integration request", "body": "Any plans to integrate with QuickBooks? It would save us hours each quarter.", "category": "feature_request"}
+{"subject": "Custom fields", "body": "We would love custom fields on clients, like a purchase order number.", "category": "feature_request"}
+{"subject": "Lost my phone 2FA", "body": "I lost the phone with my authenticator app and cannot sign in.", "category": "account_access"}
+{"subject": "Press inquiry", "body": "I am writing an article about invoicing tools and would like a quote.", "category": "other"}
+{"subject": "Password reset email missing", "body": "I requested a password reset two days ago but no email arrived.", "category": "account_access"}
+{"subject": "Bulk edit wish", "body": "It would help a lot to edit due dates for many invoices at once.", "category": "feature_request"}
+{"subject": "Downgrade pricing question", "body": "If we downgrade from Pro mid-cycle, do we get credit for the rest?", "category": "billing"}
+{"subject": "Partial payment question", "body": "A client paid half. How do I record a partial payment?", "category": "how_to"}
+{"subject": "Duplicate numbers", "body": "Two invoices got the same number after the this morning update, which breaks our records.", "category": "bug"}
+{"subject": "Locked out", "body": "I cannot log in, it says my account is locked after too many attempts.", "category": "account_access"}
+{"subject": "Job application", "body": "Are you hiring support engineers in Italy?", "category": "other"}
+{"subject": "Emails not sent", "body": "Clients say they never receive invoice emails since since Monday. Status says sent.", "category": "bug"}
+{"subject": "Feature idea", "body": "Please add support for Spain e-invoicing standard, we would pay more for it.", "category": "feature_request"}
+{"subject": "Charged twice this month", "body": "I see two charges of 120 EUR on my card for the same year.", "category": "billing"}
+{"subject": "Error when saving", "body": "Saving a draft shows 'something went wrong' and nothing is saved. since Monday.", "category": "bug"}
+{"subject": "Locked out", "body": "I cannot log in, it says my account is locked after too many attempts.", "category": "account_access"}
+{"subject": "Recurring invoices", "body": "Is there a way to send the same invoice every month automatically?", "category": "how_to"}
+{"subject": "Partial payment question", "body": "A client paid half. How do I record a partial payment?", "category": "how_to"}
+{"subject": "Data residency question", "body": "Where is our data stored? Our legal team is asking about Spain.", "category": "other"}
+{"subject": "Suggestion: dark mode", "body": "Would be nice to have a dark mode for working late.", "category": "feature_request"}
+{"subject": "PDF export broken", "body": "When I export an invoice to PDF the logo is missing. Started this morning.", "category": "bug"}
+{"subject": "Suggestion: dark mode", "body": "Would be nice to have a dark mode for working late.", "category": "feature_request"}
+{"subject": "Security questionnaire", "body": "Our procurement team needs you to fill in a vendor security questionnaire.", "category": "other"}
+{"subject": "Job application", "body": "Are you hiring support engineers in Poland?", "category": "other"}
+{"subject": "Custom fields", "body": "We would love custom fields on clients, like a purchase order number.", "category": "feature_request"}
+{"subject": "Lost my phone 2FA", "body": "I lost the phone with my authenticator app and cannot sign in.", "category": "account_access"}
+{"subject": "Custom fields", "body": "We would love custom fields on clients, like a purchase order number.", "category": "feature_request"}
+{"subject": "Recurring invoices", "body": "Is there a way to send the same invoice every week automatically?", "category": "how_to"}
+{"subject": "Data residency question", "body": "Where is our data stored? Our legal team is asking about Canada.", "category": "other"}
+{"subject": "Partnership", "body": "We are an agency and would like to discuss reselling your product.", "category": "other"}
+{"subject": "Integration request", "body": "Any plans to integrate with Xero? It would save us hours each month.", "category": "feature_request"}
+{"subject": "How do I add tax", "body": "How can I add sales tax to invoices for clients in Germany?", "category": "how_to"}
+{"subject": "Partnership", "body": "We are an agency and would like to discuss reselling your product.", "category": "other"}
+{"subject": "Emails not sent", "body": "Clients say they never receive invoice emails since yesterday. Status says sent.", "category": "bug"}
+{"subject": "Bulk edit wish", "body": "It would help a lot to edit due dates for many invoices at once.", "category": "feature_request"}
+{"subject": "Partnership", "body": "We are an agency and would like to discuss reselling your product.", "category": "other"}
+{"subject": "Downgrade pricing question", "body": "If we downgrade from Business mid-cycle, do we get credit for the rest?", "category": "billing"}
+{"subject": "Partial payment question", "body": "A client paid half. How do I record a partial payment?", "category": "how_to"}
+{"subject": "Change invoice template", "body": "Where do I change the logo and colours on my invoice template?", "category": "how_to"}
+{"subject": "Password reset email missing", "body": "I requested a password reset yesterday but no email arrived.", "category": "account_access"}
+{"subject": "Suggestion: dark mode", "body": "Would be nice to have a dark mode for working late.", "category": "feature_request"}
+{"subject": "Totals calculated wrong", "body": "Line items add up to 35 GBP but the invoice total shows a different number.", "category": "bug"}
+{"subject": "Update payment card", "body": "Our company card expired, how do we change the card you charge?", "category": "billing"}
+{"subject": "Data residency question", "body": "Where is our data stored? Our legal team is asking about Germany.", "category": "other"}
+{"subject": "Invoice for our subscription", "body": "Our accountant needs a VAT invoice for the week plan payment.", "category": "billing"}
+{"subject": "Data residency question", "body": "Where is our data stored? Our legal team is asking about Germany.", "category": "other"}
+{"subject": "How do I add tax", "body": "How can I add GST to invoices for clients in Italy?", "category": "how_to"}
+{"subject": "Wrong amount on my bill", "body": "My plan is Pro but the last bill was $99, which looks too high.", "category": "billing"}
+{"subject": "Thanks", "body": "Just wanted to say the new invoices page is great, thank you!", "category": "other"}
+{"subject": "Press inquiry", "body": "I am writing an article about invoicing tools and would like a quote.", "category": "other"}
+{"subject": "Lost my phone 2FA", "body": "I lost the phone with my authenticator app and cannot sign in.", "category": "account_access"}
+{"subject": "Security questionnaire", "body": "Our procurement team needs you to fill in a vendor security questionnaire.", "category": "other"}
+{"subject": "Invoice for our subscription", "body": "Our accountant needs a VAT invoice for the quarter plan payment.", "category": "billing"}
+{"subject": "Suggestion: dark mode", "body": "Would be nice to have a dark mode for working late.", "category": "feature_request"}
+{"subject": "API request", "body": "Could you add a webhook when a client opens an invoice for the first time?", "category": "feature_request"}
+{"subject": "Error when saving", "body": "Saving a draft shows 'something went wrong' and nothing is saved. since Monday.", "category": "bug"}
+{"subject": "Update payment card", "body": "Our company card expired, how do we change the card you charge?", "category": "billing"}
+{"subject": "Totals calculated wrong", "body": "Line items add up to 120 EUR but the invoice total shows a different number.", "category": "bug"}
+{"subject": "Emails not sent", "body": "Clients say they never receive invoice emails since since Monday. Status says sent.", "category": "bug"}
+{"subject": "Integration request", "body": "Any plans to integrate with Zapier? It would save us hours each month.", "category": "feature_request"}
+{"subject": "Page keeps loading", "body": "The invoices page spins forever in Firefox. Other pages work.", "category": "bug"}
+{"subject": "Error when saving", "body": "Saving a draft shows 'something went wrong' and nothing is saved. after the last update.", "category": "bug"}
+{"subject": "PDF export broken", "body": "When I export an invoice to PDF the logo is missing. Started two days ago.", "category": "bug"}
+{"subject": "PDF export broken", "body": "When I export an invoice to PDF the tax line is missing. Started since Monday.", "category": "bug"}
+{"subject": "Can't access account", "body": "Our owner left the company and nobody can access the account now.", "category": "account_access"}
+{"subject": "Bulk edit wish", "body": "It would help a lot to edit due dates for many invoices at once.", "category": "feature_request"}
+{"subject": "Add a team member", "body": "How do I give my bookkeeper access to the clients page only?", "category": "how_to"}
+{"subject": "Page keeps loading", "body": "The clients page spins forever in Edge. Other pages work.", "category": "bug"}
+{"subject": "Change invoice template", "body": "Where do I change the logo and colours on my invoice template?", "category": "how_to"}
+{"subject": "Partnership", "body": "We are an agency and would like to discuss reselling your product.", "category": "other"}
+{"subject": "Thanks", "body": "Just wanted to say the new invoices page is great, thank you!", "category": "other"}
+{"subject": "Thanks", "body": "Just wanted to say the new clients page is great, thank you!", "category": "other"}
+{"subject": "Totals calculated wrong", "body": "Line items add up to 120 EUR but the invoice total shows a different number.", "category": "bug"}
+{"subject": "Recurring invoices", "body": "Is there a way to send the same invoice every month automatically?", "category": "how_to"}
+{"subject": "Wrong amount on my bill", "body": "My plan is Pro but the last bill was 35 GBP, which looks too high.", "category": "billing"}
+{"subject": "Change account email", "body": "I need to change the email I use to sign in because I lost access to the old one.", "category": "account_access"}
+{"subject": "Login loop", "body": "After entering my password in Firefox it sends me back to the login page.", "category": "account_access"}
